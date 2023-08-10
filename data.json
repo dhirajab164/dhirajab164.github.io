@@ -1,14 +1,61 @@
 [
         {
-                "name":"John",
-                "role":"admin"
-        },
-        {
-                "name":"Jake",
-                "role":"manager"
-        },
-        {
-                "name":"Jim",
-                "role":"developer"
+                "profile": {
+                        "name": "Dhiraj Bhingardeve",
+                        "designation": "Software Developer",
+                        "skills": {
+                                "backend": [
+                                        "Java",
+                                        "Spring Boot",
+                                        "Hibernate",
+                                        "Jpa",
+                                        "MySQL"
+                                ]
+                        }
+                },
+                "projects": [
+                        {
+                                "title": "Instagram Clone",
+                                "desc": "A website clone of Instagram, a photo and video sharing social networking service owned by American company Meta Platforms.",
+                                "image": "./public/images/project/instagram-clone.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://instagramclone-bdheeraja.netlify.app/"
+                        },
+                        {
+                                "title": "Amazon Clone",
+                                "desc": "A website clone of a e-commerce website amazon.com. Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.",
+                                "image": "./public/images/project/amazon clone.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://azclone-bdheeraja.netlify.app/"
+                        },
+                        {
+                                "title": "Ready2GoCars",
+                                "desc": "A website for car rental business.",
+                                "image": "./public/images/project/Car Rental.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://rideaway-bdheeraja.netlify.app/"
+                        },
+                        {
+                                "title": "Servion",
+                                "desc": "A website for web hosting business.",
+                                "image": "./public/images/project/servion.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://servion-bdheeraja.netlify.app/"
+                        },
+                        {
+                                "title": "Windbnb",
+                                "desc": "A website clone for a Airbnb Inc., an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences",
+                                "image": "./public/images/project/airbnb clone.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://servion-bdheeraja.netlify.app/"
+                        },
+                        {
+                                "title": "Tweeter",
+                                "desc": "A website clone for Twitter, Inc. was an American social media company based in San Francisco, California.",
+                                "image": "./public/images/project/twitter clone.png",
+                                "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
+                                "link": "https://servion-bdheeraja.netlify.app/"
+                        }
+                ]
         }
 ]
