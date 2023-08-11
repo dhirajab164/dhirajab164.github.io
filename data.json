@@ -24,14 +24,14 @@
                         {
                                 "title": "Amazon Clone",
                                 "desc": "A website clone of a e-commerce website amazon.com. Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.",
-                                "image": "./public/images/project/amazon clone.png",
+                                "image": "./public/images/project/amazon-clone.png",
                                 "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
                                 "link": "https://azclone-bdheeraja.netlify.app/"
                         },
                         {
                                 "title": "Ready2GoCars",
                                 "desc": "A website for car rental business.",
-                                "image": "./public/images/project/Car Rental.png",
+                                "image": "./public/images/project/car-rental.png",
                                 "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
                                 "link": "https://rideaway-bdheeraja.netlify.app/"
                         },
@@ -45,14 +45,14 @@
                         {
                                 "title": "Windbnb",
                                 "desc": "A website clone for a Airbnb Inc., an American San Francisco-based company operating an online marketplace for short- and long-term homestays and experiences",
-                                "image": "./public/images/project/airbnb clone.png",
+                                "image": "./public/images/project/airbnb-clone.png",
                                 "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
                                 "link": "https://servion-bdheeraja.netlify.app/"
                         },
                         {
                                 "title": "Tweeter",
                                 "desc": "A website clone for Twitter, Inc. was an American social media company based in San Francisco, California.",
-                                "image": "./public/images/project/twitter clone.png",
+                                "image": "./public/images/project/twitter-clone.png",
                                 "tags": "#ReactJS, #NextJs, #TailwindCss, #Redux, #Hooks, #Responsive",
                                 "link": "https://servion-bdheeraja.netlify.app/"
                         }
